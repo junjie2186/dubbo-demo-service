@@ -1,4 +1,5 @@
 # dubbo-demo-service
+<<<<<<< HEAD
 
 #### Description
 {**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
@@ -34,3 +35,6 @@ Software architecture description
 4. The most valuable open source project [GVP](https://gitee.com/gvp)
 5. The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
 6. The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+=======
+ dubbo微服务提供者端 
+>>>>>>> d2e4a24972205a581daa498397637e6f0de73688
